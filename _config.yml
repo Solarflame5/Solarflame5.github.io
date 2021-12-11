@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+title: My super cool website
+description: My super cool description
+logo: https://mydomain.com/myimage.png
