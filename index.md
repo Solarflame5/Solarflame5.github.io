@@ -1,6 +1,4 @@
-## Welcome to my website!
-### About me
-I'm Solarflame5, a student who likes programming, 3D modelling and video games.
+## Home
 ### Programming
 I'm not very skilled at programming but I'm trying to improve, I use Python 3 for most of my projects.
 ### 3D Modelling
